@@ -4,7 +4,7 @@ Servo myservo;
  
 int pos = 0; 
 int in = 2; 
-int out = 13;  
+int out = 3;  
 int state = HIGH;  
 int r;           
 int p = LOW;    
